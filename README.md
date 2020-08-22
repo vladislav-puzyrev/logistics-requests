@@ -1,5 +1,7 @@
 ## Тествое задание для YetiCrab
 Запуск:
+1) **npm install**
+1) **cd src/client** && **npm install**
 1) **npm run server** (http://localhost:5000)
 2) **npm run client** (http://localhost:3000)
 
